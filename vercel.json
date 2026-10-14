@@ -859,6 +859,11 @@
       "source": "/services/bed-frame-removal/",
       "destination": "/",
       "permanent": true
+    },
+    {
+      "source": "/admin",
+      "destination": "https://vision.leadrai.com/site-admin/site-2ab558a3700d170e176d2e22ba2177844de1",
+      "permanent": false
     }
   ]
 }
