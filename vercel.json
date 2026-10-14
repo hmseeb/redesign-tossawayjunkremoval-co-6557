@@ -1,0 +1,864 @@
+{
+  "redirects": [
+    {
+      "source": "/services/dresser-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/dresser-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/dining-table-chair-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/dining-table-chair-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/desk-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/desk-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/bookshelf-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/bookshelf-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/piano-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/piano-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/hot-tub-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/hot-tub-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/appliance-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/appliance-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/refrigerator-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/refrigerator-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/washer-dryer-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/washer-dryer-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/stove-oven-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/stove-oven-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/dishwasher-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/dishwasher-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/air-conditioner-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/air-conditioner-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/water-heater-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/water-heater-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/microwave-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/microwave-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/freezer-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/freezer-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/construction-debris",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/construction-debris/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/drywall-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/drywall-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/concrete-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/concrete-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/deck-demolition",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/deck-demolition/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/shed-demolition",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/shed-demolition/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/fence-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/fence-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/flooring-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/flooring-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/lumber-wood-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/lumber-wood-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/roofing-material-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/roofing-material-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/tile-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/tile-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/commercial-junk-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/commercial-junk-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/office-cleanout",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/office-cleanout/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/warehouse-cleanout",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/warehouse-cleanout/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/restaurant-cleanout",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/restaurant-cleanout/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/property-cleanout",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/property-cleanout/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/retail-cleanout",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/retail-cleanout/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/hoarder-house-cleanout",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/hoarder-house-cleanout/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/church-cleanout",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/church-cleanout/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/yard-waste",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/yard-waste/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/e-waste-electronics",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/e-waste-electronics/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/tv-monitor-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/tv-monitor-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/exercise-equipment",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/exercise-equipment/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/tire-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/tire-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/swing-set-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/swing-set-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/trampoline-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/trampoline-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/bbq-grill-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/bbq-grill-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/junk-scrap-metal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/junk-scrap-metal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/holiday-decoration-disposal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/holiday-decoration-disposal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/salem",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/salem/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/keizer",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/keizer/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/silverton",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/silverton/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/woodburn",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/woodburn/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/stayton",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/stayton/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/jefferson",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/jefferson/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/dallas",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/dallas/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/independence",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/independence/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/monmouth",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/monmouth/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/mcminnville",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/mcminnville/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/newberg",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/newberg/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/albany",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/albany/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/lebanon",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/lebanon/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/sweet-home",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/sweet-home/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/corvallis",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/corvallis/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/philomath",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/philomath/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/hillsboro",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/hillsboro/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/beaverton",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/beaverton/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/pricing",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/pricing/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/contact",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/booking",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/booking/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/junk-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/junk-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/reviews",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/reviews/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/faq",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/faq/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/house-cleanout",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/house-cleanout/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/garage-cleanout",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/garage-cleanout/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/basement-cleanout",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/basement-cleanout/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/attic-cleanout",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/attic-cleanout/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/estate-cleanout",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/estate-cleanout/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/storage-unit-cleanout",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/storage-unit-cleanout/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/hoarding-cleanout",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/hoarding-cleanout/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/foreclosure-cleanout",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/foreclosure-cleanout/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/apartment-cleanout",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/apartment-cleanout/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/shed-cleanout",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/shed-cleanout/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/move-out-cleanout",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/move-out-cleanout/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/move-in-cleanout",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/move-in-cleanout/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/furniture-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/furniture-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/couch-sofa-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/couch-sofa-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/mattress-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/mattress-removal/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/bed-frame-removal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/bed-frame-removal/",
+      "destination": "/",
+      "permanent": true
+    }
+  ]
+}
