@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="TossAway Junk Removal">
+  <rect width="64" height="64" rx="14" fill="#0b100d"/>
+  <path d="M8 40h26V22H8v18z" fill="#4aa828"/>
+  <path d="M34 40h12l8-8v8h2v6h-6a4 4 0 0 0-8 0h-8V40z" fill="#c6f24a"/>
+  <circle cx="20" cy="46" r="5" fill="#ffffff"/>
+  <circle cx="20" cy="46" r="2.2" fill="#0b100d"/>
+  <circle cx="46" cy="46" r="5" fill="#ffffff"/>
+  <circle cx="46" cy="46" r="2.2" fill="#0b100d"/>
+  <path d="M10 22l5-6h14l5 6H10z" fill="#c6f24a"/>
+</svg>
